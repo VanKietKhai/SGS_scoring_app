@@ -1,6 +1,6 @@
 # saigon_sniper
 
-A new Flutter project.
+SGS scoring app
 
 ## Getting Started
 
